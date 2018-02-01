@@ -1,0 +1,4 @@
+#Thu Feb 01 04:23:34 EET 2018
+base.0=D\:\\Truc\\android app\\CameraAp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\Truc\\android app\\CameraAp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
